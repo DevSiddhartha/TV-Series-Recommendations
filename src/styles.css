@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+}
+.list-div {
+  background-color: #efefef;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 0.5rem;
+  height: 40px;
+  padding: 1rem 1rem;
+  font-size: large;
+  display: block;
+}
+
+.btn-movie {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 1rem;
+  font-family: Lato;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
